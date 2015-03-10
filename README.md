@@ -37,4 +37,6 @@ var CmdP = new CommandParser({
     }
   }
 });
+
+CmdP.parse(script);
 ```
